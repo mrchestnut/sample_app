@@ -8,6 +8,7 @@ gem 'bootstrap-sass'
 
 gem 'pg'
 gem 'youtube_it'
+gem 'bcrypt-ruby'
 
 
 # Gems used only for assets and not required
@@ -26,6 +27,10 @@ gem 'jquery-rails', '2.0.0'
 
 group :development, :test do
   gem 'rspec-rails', '2.9.0'
+end
+
+group :development do
+	gem 'annotate', '~> 2.4.1.beta'
 end
 
 group :test do
