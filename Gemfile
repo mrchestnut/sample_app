@@ -9,6 +9,7 @@ gem 'bootstrap-sass'
 gem 'pg'
 gem 'youtube_it'
 gem 'bcrypt-ruby'
+gem 'heroku'
 
 
 # Gems used only for assets and not required
