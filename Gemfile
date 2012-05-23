@@ -11,6 +11,8 @@ gem 'youtube_it'
 gem 'bcrypt-ruby'
 gem 'heroku'
 gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 
 # Gems used only for assets and not required
