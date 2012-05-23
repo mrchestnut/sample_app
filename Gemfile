@@ -10,6 +10,7 @@ gem 'pg'
 gem 'youtube_it'
 gem 'bcrypt-ruby'
 gem 'heroku'
+gem 'faker'
 
 
 # Gems used only for assets and not required
